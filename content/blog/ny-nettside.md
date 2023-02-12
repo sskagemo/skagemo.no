@@ -3,7 +3,7 @@ title: "Ny nettside"
 date: 2023-02-12T11:42:23+01:00
 Tags: [hugo]
 Categories: [privat]
-draft: true
+draft: false
 ---
 Etter noen måneder uten en hjemmeside har jeg fått opp en (relativt) enkel løsning, som jeg tror (håper) jeg skal klare å holde på lufta, og sånn noenlunde oppdatert fremover.
 

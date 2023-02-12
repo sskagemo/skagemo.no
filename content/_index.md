@@ -1,7 +1,7 @@
 ---
 title: "Steinar Skagemo"
 date: 0
-draft: true
+draft: false
 menu:
   main:
     name: "Hjem"

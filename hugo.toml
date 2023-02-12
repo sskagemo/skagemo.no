@@ -1,4 +1,4 @@
-baseURL = 'https://skagemo.no/'
+baseURL = 'https://sskagemo.github.io/skagemo.no/'
 languageCode = 'no'
 title = 'S. Skagemo, forvaltningsinformatiker og elsykkelevangelist'
 theme = 'simplecss'

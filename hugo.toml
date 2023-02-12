@@ -4,5 +4,8 @@ languageCode = 'no'
 title = 'S. Skagemo, forvaltningsinformatiker og elsykkelevangelist'
 theme = 'hugo-flex'
 
+[params]
+    footer = "" # Her kan jeg skrive inn en footer 
+
 [permalinks]
     blog = "/blog/:year/:month/:slug" 

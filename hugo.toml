@@ -2,7 +2,7 @@
 baseURL = 'https://skagemo.no/'
 languageCode = 'no'
 title = 'S. Skagemo, forvaltningsinformatiker og elsykkelevangelist'
-theme = 'simplecss'
+theme = 'hugo-flex'
 
 [permalinks]
     blog = "/blog/:year/:month/:slug" 

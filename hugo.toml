@@ -2,26 +2,6 @@ baseURL = 'https://sskagemo.github.io/skagemo.no/'
 languageCode = 'no'
 title = 'S. Skagemo, forvaltningsinformatiker og elsykkelevangelist'
 theme = 'simplecss'
-mainSections = ["blog"]
-paginate = 4
-# custom_css = ["assets/css/userstyles.css"]
-summaryLength = 40
-
-[params]
-    date = false
-    author = "Steinar Skagemo"
-    siteHeading = "forvaltningsinformatiker S. Skagemo"
-    showBlogLatest = true
-    mainSections = ["blog"]
-    showTaxonomyLinks = false
-    nBlogLatest = 4
-    blogLatestHeading = "Siste innlegg"
-
-    [params.social]
-        github = "sskagemo"
-        linkedin = "https://www.linkedin.com/in/sskagemo/"
-        mastodon = "@sskagemo@oslo.town"
-        rss = "some dummy value ..."
 
 [permalinks]
     blog = "/blog/:year/:month/:slug" 

@@ -5,7 +5,7 @@ theme = 'hugo-flex'
 
 [params]
     color = "#156A15"
-    footer = """Registrert i Brønnøysundregistrene: <a href="https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=982909392">982 909 392</a>"""
+    footer = """<em>Forvaltningsinformatiker Steinar Skagemo</em> i Brønnøysundregistrene: <a href="https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=982909392">982 909 392</a>"""
     rss = "For å abonnere, kopier adressen til denne nettsiden og lim den inn i din foretrukne RSS-leser"
     linkicons = true
     schema = true

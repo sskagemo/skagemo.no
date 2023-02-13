@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://skagemo.no/xml/base.min.xml"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo on forvaltningsinformatiker Steinar Skagemo</title><link>https://skagemo.no/tags/hugo/</link><description>Recent content in hugo on forvaltningsinformatiker Steinar Skagemo</description><generator>Hugo -- gohugo.io</generator><language>no-nb</language><lastBuildDate>Mon, 13 Feb 2023 09:20:00 +0100</lastBuildDate><atom:link href="https://skagemo.no/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Innlegg fra Github</title><link>https://skagemo.no/blog/2023/02/innlegg-fra-github/</link><pubDate>Mon, 13 Feb 2023 09:20:00 +0100</pubDate><guid>https://skagemo.no/blog/2023/02/innlegg-fra-github/</guid><description>&lt;p>Et av målene med å sette opp ny nettside, er å gjøre det relativt enkelt å publisere og endre, uten å være avhengig av å bruke helt nye verktøy,
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://skagemo.no/xml/base.min.xml"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo on forvaltningsinformatiker Steinar Skagemo</title><link>https://skagemo.no/tags/hugo/</link><description>Recent content in hugo on forvaltningsinformatiker Steinar Skagemo</description><generator>Hugo -- gohugo.io</generator><language>no-nb</language><lastBuildDate>Mon, 13 Feb 2023 09:20:00 +0100</lastBuildDate><atom:link href="https://skagemo.no/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Innlegg fra mobiltelefonen</title><link>https://skagemo.no/blog/2023/02/innlegg-fra-mobiltelefonen/</link><pubDate>Mon, 13 Feb 2023 09:35:00 +0100</pubDate><guid>https://skagemo.no/blog/2023/02/innlegg-fra-mobiltelefonen/</guid><description>&lt;p>Dette innlegget er skrevet på mobiltelefonen,
+ved hjelp av funksjonaliteten for å redigere
+filer på GitHubs nettsider.&lt;/p>
+&lt;p>Jeg får stort sett kløe av å skrive direkte
+på mobiltelefonen, men for en del år siden
+(våren 2015) kjøpte
+jeg et lite reisetastatur (Logitech Keys-To-Go),
+og hver gang jeg husker å bruke det &amp;ndash; sånn som
+nå &amp;ndash; blir jeg minnet på at det er kanskje
+et av de aller beste kjøpene jeg har gjort.
+Det kostet ca 700,- dengang.&lt;/p>
+&lt;p>Gjett hvor glad jeg ville blitt hvis jeg også
+kunne ha koblet det til min ReMarkable &amp;hellip; Da
+kunne jeg kombinere distraksjonsfrihet skriving
+med &lt;em>effektiv&lt;/em> skriving. Jeg elsker muligheten
+til å notere for hånd, men hvis jeg skal skrive
+litt lengre tekster savner jeg et tastatur.&lt;/p>
+&lt;p>Men det var ikke det dette innlegget skulle handle
+om, så jeg tror vi avslutter der, og ser om dette
+virker etter planen!&lt;/p></description></item><item><title>Innlegg fra Github</title><link>https://skagemo.no/blog/2023/02/innlegg-fra-github/</link><pubDate>Mon, 13 Feb 2023 09:20:00 +0100</pubDate><guid>https://skagemo.no/blog/2023/02/innlegg-fra-github/</guid><description>&lt;p>Et av målene med å sette opp ny nettside, er å gjøre det relativt enkelt å publisere og endre, uten å være avhengig av å bruke helt nye verktøy,
 og helst uavhengig av et oppsett på én spesifikk PC. Nå som innholdet vedlikeholdes på Github, og (visstnok) skal publiseres automatisk ved endringer
 her, så tror jeg det skal være løst.&lt;/p>
 &lt;p>Dette innlegget vil isåfall være et bevis på det. Dette er skrevet på en PC, og etterpå tror jeg jeg må teste om det også er noenlunde enkelt å gjøre

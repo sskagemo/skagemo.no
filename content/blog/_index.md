@@ -1,7 +1,4 @@
 ---
-menu:
-    main:
-        identifier: "blog"
-        name: "Blogg"
-        weight: 2
+title: blogg | oversikt over innlegg
 ---
+Her er en kronolgisk oversikt over innleggene.

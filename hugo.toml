@@ -1,11 +1,42 @@
-#baseURL = 'https://sskagemo.github.io/skagemo.no/'
 baseURL = 'https://skagemo.no/'
-languageCode = 'no'
-title = 'S. Skagemo, forvaltningsinformatiker og elsykkelevangelist'
+languageCode = 'no-nb'
+title = 'forvaltningsinformatiker Steinar Skagemo'
 theme = 'hugo-flex'
 
 [params]
-    footer = "" # Her kan jeg skrive inn en footer 
+    color = "#156A15"
+    footer = """Registrert i Brønnøysundregistrene: <a href="https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=982909392">982 909 392</a>"""
+    rss = "For å abonnere, kopier adressen til denne nettsiden og lim den inn i din foretrukne RSS-leser"
+    linkicons = true
+    schema = true
+    summaries = true
+
 
 [permalinks]
     blog = "/blog/:year/:month/:slug" 
+
+[[menu.nav]]
+name = "Om"
+url = "om"
+weight = 1
+
+[[menu.nav]]
+name = "Blogg"
+url = "blog/"
+weight = 2
+
+[[menu.nav]]
+name = "Tema"
+url = "tags/"
+weight = 3
+
+#[[menu.nav]]
+#name = "Categories"
+#url = "categories/"
+#weight = 4
+
+[[menu.nav]]
+name = "RSS"
+url = "index.xml"
+weight = 5
+

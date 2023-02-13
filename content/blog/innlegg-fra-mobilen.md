@@ -2,6 +2,7 @@
 title: Innlegg fra mobiltelefonen
 date: 2023-02-13T09:35:00+01:00
 draft: false
+Tags: [hugo]
 ---
 Dette innlegget er skrevet på mobiltelefonen,
 ved hjelp av funksjonaliteten for å redigere

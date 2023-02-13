@@ -1,6 +1,6 @@
 ---
 title: "Innlegg fra Github"
-date: 2022-02-13T09:20:00+01:00
+date: 2023-02-13T09:20:00+01:00
 Tags: [hugo]
 ---
 Et av målene med å sette opp ny nettside, er å gjøre det relativt enkelt å publisere og endre, uten å være avhengig av å bruke helt nye verktøy,

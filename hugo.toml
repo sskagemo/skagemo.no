@@ -40,3 +40,7 @@ name = "RSS"
 url = "index.xml"
 weight = 5
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # for å tillate "raw" html

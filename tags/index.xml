@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://skagemo.no/xml/base.min.xml"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on forvaltningsinformatiker Steinar Skagemo</title><link>https://skagemo.no/tags/</link><description>Recent content in Tags on forvaltningsinformatiker Steinar Skagemo</description><generator>Hugo -- gohugo.io</generator><language>no-nb</language><lastBuildDate>Tue, 14 Feb 2023 20:00:00 +0100</lastBuildDate><atom:link href="https://skagemo.no/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Kodeeksempel som kan testes</title><link>https://skagemo.no/blog/2023/02/kodeeksempel-som-kan-testes/</link><pubDate>Tue, 14 Feb 2023 20:00:00 +0100</pubDate><guid>https://skagemo.no/blog/2023/02/kodeeksempel-som-kan-testes/</guid><description>&lt;p>Enda mer tilfredsstillende ennå se interessante kodeeksempler, er å kunne teste dem, og aller helst med mulighet til å justere på dem.&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://skagemo.no/xml/base.min.xml"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on forvaltningsinformatiker Steinar Skagemo</title><link>https://skagemo.no/tags/</link><description>Recent content in Tags on forvaltningsinformatiker Steinar Skagemo</description><generator>Hugo -- gohugo.io</generator><language>no-nb</language><lastBuildDate>Wed, 08 Mar 2023 14:00:00 +0100</lastBuildDate><atom:link href="https://skagemo.no/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Venter i spenning på PyCon!</title><link>https://skagemo.no/blog/2023/03/venter-i-spenning-p%C3%A5-pycon/</link><pubDate>Wed, 08 Mar 2023 14:00:00 +0100</pubDate><guid>https://skagemo.no/blog/2023/03/venter-i-spenning-p%C3%A5-pycon/</guid><description>&lt;p>Jeg tror PyScript kan bidra til å gjøre det mye, mye enklere for mange flere å bruke Python.&lt;/p>
+&lt;p>Med dagens strenge begrensninger hos mange arbeidsgivere
+for hva man får lov til å gjøre, og ikke gjøre, på PC-ene på jobben, så kan det være vanskelig å få på tilgang til Python på en god måte.&lt;/p>
+&lt;p>Med PyScript blir Python-universet tilgjengelig i nettleseren, og det løser samtidig en annen utfordring
+med å bruke Python, nemlig behovet for å sette opp et separat &amp;ldquo;miljø&amp;rdquo; med de relevante pakkene, for hvert program.
+Hver PyScript-nettside kan spesifisere sitt eget miljø, og de relevante pakkene lastes ned og installeres uten
+at brukeren må gjøre noe.&lt;/p>
+&lt;p>Det er fortsatt mye &amp;ldquo;work in progress&amp;rdquo;, men det er mye som skjer. En svært spennende utvikling er at
+PyScript ser på MicroPython som et alternativ, i visse tilfeller. Det er allerede laget en &amp;ldquo;&lt;a href="https://pyscript.net/tech-preview/micropython/repl.html">technical preview&lt;/a>&amp;rdquo;
+og der er siden ferdig med å laste ned og starte Python på et par sekunder.&lt;/p>
+&lt;p>Det gjenstår fortsatt mye arbeid for å øke farten, og samtidig tilby full integrasjon med nettleseren og øvrig nettsideteknologi. 22. april skal det være en
+presentasjon på Python-konferansen PyCon US som oppsummerer det som har skjedd det siste året, og hva som er er status og veien videre for Python i nettleseren:&lt;/p>
+&lt;p>&lt;a href="https://us.pycon.org/2023/schedule/presentation/77/">PyScript and the magic of Python in the browser&lt;/a>&lt;/p>
+&lt;p>Fra beskrivelsen:&lt;/p>
+&lt;blockquote>
+&lt;p>A year after its announcement, PyScript is a very different project. From major performance improvements to great plugins, PyScript applications allow a new way to create fun and
+educational opportunities that were not possible until now. This talk summarizes the work done over the past year, and what you might expect in the future. In this talk I will:
+Give a quick overview of what PyScript is&lt;/p>
+&lt;ul>
+&lt;li>Talk about features and changes introduced this year:&lt;/li>
+&lt;li>Support for the blazing fast MicroPython interpreter&lt;/li>
+&lt;li>Improved support for data&lt;/li>
+&lt;/ul>
+&lt;/blockquote></description></item><item><title>Kodeeksempel som kan testes</title><link>https://skagemo.no/blog/2023/02/kodeeksempel-som-kan-testes/</link><pubDate>Tue, 14 Feb 2023 20:00:00 +0100</pubDate><guid>https://skagemo.no/blog/2023/02/kodeeksempel-som-kan-testes/</guid><description>&lt;p>Enda mer tilfredsstillende ennå se interessante kodeeksempler, er å kunne teste dem, og aller helst med mulighet til å justere på dem.&lt;/p>
 &lt;p>På disse innleggene er kodeeksemplene bare tekst:&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span> liste &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;en to tre fire fem seks&amp;#34;&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">&amp;gt;&amp;gt;&amp;gt;&lt;/span> liste&lt;span style="color:#f92672">.&lt;/span>split()

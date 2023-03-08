@@ -1,7 +1,7 @@
 ---
 title: Venter i spenning på PyCon!
 date: 2023-03-08T17:30:00+01:00
-draft: true
+draft: false
 Tags: [fokus, remarkable]
 ---
 Noe av det første jeg gjorde da vi flyttet til hjemmekontor vinteren 2020, var å slå til på et introduksjonstilbud på [reMarkable 2](https://remarkable.com/store).

@@ -4,7 +4,7 @@ date: 2023-03-08T14:00:00+01:00
 draft: false
 Tags: [kode, pyscript]
 ---
-Jeg tror PyScript kan bidra til å gjøre det mye, mye enklere for mange flere å bruke Python.
+Jeg tror PyScript kan bidra til å gjøre det mye, mye enklere for mange flere å bruke Python!
 
 Med dagens strenge begrensninger hos mange arbeidsgivere
  for hva man får lov til å gjøre, og ikke gjøre, på PC-ene på jobben, så kan det være vanskelig å få på tilgang til Python på en god måte.
@@ -31,3 +31,11 @@ Fra beskrivelsen:
 > - Talk about features and changes introduced this year:
 > - Support for the blazing fast MicroPython interpreter
 > - Improved support for data
+> - ...
+
+Mens vi venter ... følger jeg tett med på github, og blir entusiastisk når jeg leser meldinger som dette:
+
+> Since we are deploying soon, this PR adds tests for the snippets in the docs (mostly just the tutorials and one guide), we probably should expand to include other guides.
+
+(Fra en rykende fersk "[Pull Request](https://github.com/pyscript/pyscript/pull/1264)")
+

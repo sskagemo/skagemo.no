@@ -1,5 +1,5 @@
 ---
-title: Venter i spenning på PyCon!
+title: ReMarkable -- med tastatur!
 date: 2023-03-08T17:30:00+01:00
 draft: false
 Tags: [fokus, remarkable]

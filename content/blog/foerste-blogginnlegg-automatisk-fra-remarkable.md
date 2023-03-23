@@ -6,7 +6,7 @@ title: Første blogginnlegg automatisk fra reMarkable
 
 date: 2023-03-23T11:50
 
-draft: true
+draft: false
 
 tags: [remarkable, koding]
 

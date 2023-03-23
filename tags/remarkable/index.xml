@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://skagemo.no/xml/base.min.xml"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>remarkable on forvaltningsinformatiker Steinar Skagemo</title><link>https://skagemo.no/tags/remarkable/</link><description>Recent content in remarkable on forvaltningsinformatiker Steinar Skagemo</description><generator>Hugo -- gohugo.io</generator><language>no-nb</language><lastBuildDate>Wed, 08 Mar 2023 17:30:00 +0100</lastBuildDate><atom:link href="https://skagemo.no/tags/remarkable/index.xml" rel="self" type="application/rss+xml"/><item><title>ReMarkable -- med tastatur!</title><link>https://skagemo.no/blog/2023/03/remarkable--med-tastatur/</link><pubDate>Wed, 08 Mar 2023 17:30:00 +0100</pubDate><guid>https://skagemo.no/blog/2023/03/remarkable--med-tastatur/</guid><description>&lt;p>Noe av det første jeg gjorde da vi flyttet til hjemmekontor vinteren 2020, var å slå til på et introduksjonstilbud på &lt;a href="https://remarkable.com/store">reMarkable 2&lt;/a>.&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://skagemo.no/xml/base.min.xml"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>remarkable on forvaltningsinformatiker Steinar Skagemo</title><link>https://skagemo.no/tags/remarkable/</link><description>Recent content in remarkable on forvaltningsinformatiker Steinar Skagemo</description><generator>Hugo -- gohugo.io</generator><language>no-nb</language><lastBuildDate>Thu, 23 Mar 2023 11:50:00 +0100</lastBuildDate><atom:link href="https://skagemo.no/tags/remarkable/index.xml" rel="self" type="application/rss+xml"/><item><title>Første blogginnlegg automatisk fra reMarkable</title><link>https://skagemo.no/blog/2023/03/foerste-blogginnlegg-automatisk-fra-remarkable/</link><pubDate>Thu, 23 Mar 2023 11:50:00 +0100</pubDate><guid>https://skagemo.no/blog/2023/03/foerste-blogginnlegg-automatisk-fra-remarkable/</guid><description>&lt;p>Hvis du kan lese dette så har jeg lyktes i å få til følgende:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Skrive et innlegg på min reMarkable (med tastaturet Type Folio)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sende teksten som epost til en egen epostadresse&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Automatisk tagge eposten som et nytt innlegg&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Få Google Apps Script til å oppdage det nye innlegget og &amp;ldquo;commite&amp;rdquo; det
+til riktig sted på Github slik at det dukker opp på bloggen&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>(samt et ørlite manuelt kvalitetssikringssteg inni der som jeg kan gjøre
+fra mobiltelefonen)&lt;/p>
+&lt;p>En liten fun-fact er at jeg trengte litt kode for å lage et filnavn basert
+på innholdet i teksten. Ikke veldig avansert, men likevel noe som krevde
+noen få linjer JavaScript-kode (Google Apps Script bruker JavaScript). Jeg
+regnet med at jeg ville klare å finne det ut siden jeg kjenner til hvordan
+man gjør det med Python, men sånt tar alltid litt tid og mye prøving og
+feiling.&lt;/p>
+&lt;p>Da slo det meg at det finnes en venn for slike anledninger; OpenAIs
+ChatGPT. Så jeg skrev koden i Python og testet at den gjorde det jeg ville,
+og så ba jeg bare om å få den samme koden som JavaScript. Det fungerte
+feilfritt på første forsøk :-)&lt;/p>
+&lt;p>Enda en grunn til å lære Python; du kan få hjelp av ChatGPT til å skrive
+det om til JavaScript, og kanskje andre programmeringsspråk også, hvis du
+trenger det senere. (Vel, det samme argumentet kan sikkert brukes andre
+veien også, men det overser jeg akkurat nå &amp;hellip;)&lt;/p></description></item><item><title>ReMarkable -- med tastatur!</title><link>https://skagemo.no/blog/2023/03/remarkable--med-tastatur/</link><pubDate>Wed, 08 Mar 2023 17:30:00 +0100</pubDate><guid>https://skagemo.no/blog/2023/03/remarkable--med-tastatur/</guid><description>&lt;p>Noe av det første jeg gjorde da vi flyttet til hjemmekontor vinteren 2020, var å slå til på et introduksjonstilbud på &lt;a href="https://remarkable.com/store">reMarkable 2&lt;/a>.&lt;/p>
 &lt;p>Det tok noen måneder med venting, men i september 2020 mottok jeg mitt eksemplar.&lt;/p>
 &lt;p>Jeg har vært veldig fornøyd med min reMarkable, og &amp;ldquo;killer&amp;rdquo;-funksjonen for min del, er at den ikke er full av forstyrrende elementer. Hverken &amp;ldquo;pling&amp;rdquo; fra epost, eller nettleseren som &lt;em>alltid&lt;/em> er der og lokker med nyheter, LinkedIn og muligheten til å finne svar på hva jeg til enhver tid er &lt;em>litt&lt;/em> i tvil om.&lt;/p>
 &lt;p>På samme måte som med når jeg tar notater på papir i møter, følger jeg med på det som skjer i møtet, istedenfor å &amp;ldquo;sone ut&amp;rdquo; og begynne å svare på epost, lese på LinkedIn eller sjekke nyheter.&lt;/p>
@@ -103,35 +134,4 @@ her, så tror jeg det skal være løst.&lt;/p>
 &lt;p>Dette innlegget vil isåfall være et bevis på det. Dette er skrevet på en PC, og etterpå tror jeg jeg må teste om det også er noenlunde enkelt å gjøre
 det samme fra mobiltelefonen.&lt;/p></description></item><item><title>Ny nettside</title><link>https://skagemo.no/blog/2023/02/ny-nettside/</link><pubDate>Sun, 12 Feb 2023 11:42:23 +0100</pubDate><guid>https://skagemo.no/blog/2023/02/ny-nettside/</guid><description>&lt;p>Etter noen måneder uten en hjemmeside har jeg fått opp en (relativt) enkel løsning, som jeg tror (håper) jeg skal klare å holde på lufta, og sånn noenlunde oppdatert fremover.&lt;/p>
 &lt;p>Blogg-ambisjonene er minimale, men noen ganger klør det litt etter å ha et sted på nettet å putte tanker og meninger, så det er fint å kunne gjøre det med enkle midler.&lt;/p>
-&lt;p>Jeg har startet med et veldig enkelt &amp;ldquo;theme&amp;rdquo; for Hugo, kalt &lt;a href="https://github.com/de-souza/hugo-flex">hugo-flex&lt;/a>, i håp om å ikke gå meg bort i mange innstillinger. Kanskje blir det frustrerende etterhvert, men da får jeg heller bytte.&lt;/p></description></item><item><title>Første blogginnlegg automatisk fra reMarkable</title><link>https://skagemo.no/blog/1/01/foerste-blogginnlegg-automatisk-fra-remarkable/</link><guid>https://skagemo.no/blog/1/01/foerste-blogginnlegg-automatisk-fra-remarkable/</guid><description>&lt;p>Hvis du kan lese dette så har jeg lyktes i å få til følgende:&lt;/p>
-&lt;ol>
-&lt;li>
-&lt;p>Skrive et innlegg på min reMarkable (med tastaturet Type Folio)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Sende teksten som epost til en egen epostadresse&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Automatisk tagge eposten som et nytt innlegg&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Få Google Apps Script til å oppdage det nye innlegget og &amp;ldquo;commite&amp;rdquo; det
-til riktig sted på Github slik at det dukker opp på bloggen&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;p>(samt et ørlite manuelt kvalitetssikringssteg inni der som jeg kan gjøre
-fra mobiltelefonen)&lt;/p>
-&lt;p>En liten fun-fact er at jeg trengte litt kode for å lage et filnavn basert
-på innholdet i teksten. Ikke veldig avansert, men likevel noe som krevde
-noen få linjer JavaScript-kode (Google Apps Script bruker JavaScript). Jeg
-regnet med at jeg ville klare å finne det ut siden jeg kjenner til hvordan
-man gjør det med Python, men sånt tar alltid litt tid og mye prøving og
-feiling.&lt;/p>
-&lt;p>Da slo det meg at det finnes en venn for slike anledninger; OpenAIs
-ChatGPT. Så jeg skrev koden i Python og testet at den gjorde det jeg ville,
-og så ba jeg bare om å få den samme koden som JavaScript. Det fungerte
-feilfritt på første forsøk :-)&lt;/p>
-&lt;p>Enda en grunn til å lære Python; du kan få hjelp av ChatGPT til å skrive
-det om til JavaScript, og kanskje andre programmeringsspråk også, hvis du
-trenger det senere. (Vel, det samme argumentet kan sikkert brukes andre
-veien også, men det overser jeg akkurat nå &amp;hellip;)&lt;/p></description></item></channel></rss>
+&lt;p>Jeg har startet med et veldig enkelt &amp;ldquo;theme&amp;rdquo; for Hugo, kalt &lt;a href="https://github.com/de-souza/hugo-flex">hugo-flex&lt;/a>, i håp om å ikke gå meg bort i mange innstillinger. Kanskje blir det frustrerende etterhvert, men da får jeg heller bytte.&lt;/p></description></item></channel></rss>

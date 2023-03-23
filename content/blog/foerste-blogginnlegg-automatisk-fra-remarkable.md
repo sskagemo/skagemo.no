@@ -4,7 +4,7 @@
 
 title: Første blogginnlegg automatisk fra reMarkable
 
-date: 2023-03-23T11:50
+date: 2023-03-23T11:50:00+01:00
 
 draft: false
 

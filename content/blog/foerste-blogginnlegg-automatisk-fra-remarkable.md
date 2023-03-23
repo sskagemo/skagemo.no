@@ -45,3 +45,35 @@ det om til JavaScript, og kanskje andre programmeringsspråk også, hvis du
 trenger det senere. (Vel, det samme argumentet kan sikkert brukes andre 
 veien også, men det overser jeg akkurat nå ...)
 
+_Oppdatering - fra PC-en:_
+
+### Nedenfor er dialogen med ChatGPT
+
+> Can you translate this python code to javascript?
+
+```python
+with open('testdata.txt', mode='r', encoding='utf-8') as file:
+    data = file.read()
+
+lines = data.split('\n')
+
+# finner linjen som starter med "slug:", fjerner "slug:" og slår sammen resten 
+ med bindestrek
+ slug = '-'.join([line for line in lines if line.startswith('slug:')][0][6:].split(' '))
+print(slug)
+```
+Svar:
+> Sure! Here's the JavaScript equivalent of the Python code:
+```js
+const fs = require('fs');
+const path = require('path');
+
+const filePath = path.join(__dirname, 'testdata.txt');
+const data = fs.readFileSync(filePath, 'utf-8');
+
+const lines = data.split('\n');
+
+// finner linjen som starter med "slug:", fjerner "slug:" og slår sammen resten med bindestrek
+const slug = lines.filter(line => line.startsWith('slug:'))[0].substring(6).split(' ').join('-');
+console.log(slug);
+```
